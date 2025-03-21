@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6f2f06a0885b6014c8c9b741649b057b
+guid: a3c5fdb7518652e4482626adc3c12030
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4135370249655312360
-    second: element_blue_rectangle_0
+      213: 435892434311579222
+    second: Ship04_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: element_blue_rectangle_0
+      name: Ship04_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 64
-        height: 32
+        height: 29
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8ef5c69f459c36930800000000000000
-      internalID: 4135370249655312360
+      spriteID: 6560c6b0cd99c0600800000000000000
+      internalID: 435892434311579222
       vertices: []
       indices: 
       edges: []

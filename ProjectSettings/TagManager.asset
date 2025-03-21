@@ -13,6 +13,7 @@ TagManager:
   - Boss
   - PlayerShot
   - AlienShot
+  - Asteroid
   layers:
   - Default
   - TransparentFX
